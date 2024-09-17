@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Yolov9 - SAM - Yolo World - Similarity Matching Algorithms**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m eager to improve my skills **NLP**
 
 - 👯 I’m looking to collaborate on **Generative AI and Transformers**
 
